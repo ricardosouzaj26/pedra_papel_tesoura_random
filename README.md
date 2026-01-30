@@ -9,7 +9,7 @@ A partida termina quando alguém atinge 3 pontos.
 1. Certifique-se de ter o Python 3 instalado
 2. Clone o repositório ou baixe os arquivos
 ```
-git clone [https://github.com/ricardosouzaj26/pedra_papel_tesoura_random.git](https://github.com/ricardosouzaj26/pedra_papel_tesoura_random.git)
+git clone https://github.com/ricardosouzaj26/pedra_papel_tesoura_random.git
 ```
 3. No terminal, entre na pasta do projeto:
 ```
